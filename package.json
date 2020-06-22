@@ -1,0 +1,23 @@
+{
+  "name": "session-bots",
+  "version": "1.0.0",
+  "description": "Headless browsers for testing sessions",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krew-live/session-bots.git"
+  },
+  "author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/krew-live/session-bots/issues"
+  },
+  "homepage": "https://github.com/krew-live/session-bots#readme"
+}
